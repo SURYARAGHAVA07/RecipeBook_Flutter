@@ -1,0 +1,51 @@
+[
+  {
+    "id": "r_local_1",
+    "title": "Simple Tomato Pasta",
+    "category": "Easy",
+    "area": "Italian",
+    "instructions": "Boil pasta.\nMake sauce with tomatoes and garlic.\nMix and serve.",
+    "image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+    "ingredients": [
+      {"name": "Pasta", "measure": "200 g"},
+      {"name": "Tomato", "measure": "3"},
+      {"name": "Garlic", "measure": "2 cloves"}
+    ]
+  },
+  {
+    "id": "r_local_2",
+    "title": "Chickpea Curry",
+    "category": "Medium",
+    "area": "Indian",
+    "instructions": "Cook chickpeas.\nSaute onions and spices.\nAdd chickpeas and simmer.",
+    "image": "https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+    "ingredients": [
+      {"name": "Chickpeas", "measure": "2 cups"},
+      {"name": "Onion", "measure": "1"}
+    ]
+  },
+  {
+    "id": "r_local_3",
+    "title": "Chicken Teriyaki",
+    "category": "Medium",
+    "area": "Japanese",
+    "instructions": "Marinate chicken.\nCook with teriyaki sauce.\nServe with rice.",
+    "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+    "ingredients": [
+      {"name": "Chicken", "measure": "300 g"},
+      {"name": "Teriyaki Sauce", "measure": "3 tbsp"}
+    ]
+  },
+  {
+    "id": "r_local_4",
+    "title": "Avocado Toast",
+    "category": "Easy",
+    "area": "American",
+    "instructions": "Toast bread.\nMash avocado and spread.\nAdd salt and pepper.",
+    "image": "https://www.themealdb.com/images/media/meals/1549542877.jpg",
+    "ingredients": [
+      {"name": "Bread", "measure": "2 slices"},
+      {"name": "Avocado", "measure": "1"}
+    ]
+  }
+]
